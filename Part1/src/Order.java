@@ -1,4 +1,4 @@
-// This class represents an order in my "demo company".
+ // This class represents an order in my "demo company".
 public class Order {
     private String orderId;      // Unique order identifier
     private String supplierId;   // ID of the supplier for this order
