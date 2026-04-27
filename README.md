@@ -77,7 +77,7 @@ Part1/
 │
 ├── orders.txt
 ├── suppliers.txt
-├── Part1.iml
+
 ```
 
 ---
